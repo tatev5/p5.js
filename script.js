@@ -68,7 +68,7 @@ let hospital
 let healthy;
 
 function preload() {
-    human = loadImage("https://www.graphicsfactory.com/clip-art/image_files/image/7/1680217-man-laughing-at-his-phone-vector-clipart.jpg");
+    human = loadImage("https://thumbs.dreamstime.com/z/man-pointing-towards-symbol-26586420.jpg");
     corona = loadImage('https://thumbs.dreamstime.com/b/coronavirus-evil-virus-cartoon-character-face-mask-against-covid-vector-illustration-isolated-white-coronavirus-covid-evil-175340881.jpg')
     doc = loadImage('https://thumbs.dreamstime.com/b/cartoon-doctor-fighting-big-green-virus-cure-coronavirus-fight-covid-concept-flat-vector-illustration-corona-isolated-white-177241588.jpg')
     hospital = loadImage('https://c8.alamy.com/comp/2BAPCT4/medical-character-vector-concept-design-doctor-and-nurse-characters-monitoring-giving-treatment-and-medicine-to-corona-virus-infected-patient-2BAPCT4.jpg')
